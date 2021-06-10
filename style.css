@@ -1,0 +1,43 @@
+body{
+    font-family: 'Segoe UI', Tahoma;
+}
+
+
+
+
+
+
+header{
+    background-color: chartreuse;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+a{
+margin-left: 15px;
+margin-right: 15px;
+color: gold;
+text-decoration: yellowgreen;
+}
+
+button{
+    background-color: seagreen;
+    color: seashell;
+    padding: 10px 20px;
+    border-radius: 20px;
+    border: none;
+}
+
+
+button:hover{
+    background-color: springgreen;
+
+}
+
+main{
+    background-color: wheat;
+    text-align: center;
+    min-height: 75vh;
+    padding-top: 75vh;
+}
